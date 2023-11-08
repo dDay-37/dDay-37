@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dday_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_with_dDay" height="30" width="40" /></a>
+<a href="https://twitter.com/code_with_dDay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_with_dDay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uday parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday parihar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/uday_parihar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="uday_parihar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/udayparihar87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udayparihar87" height="30" width="40" /></a>
