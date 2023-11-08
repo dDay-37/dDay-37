@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dday-37&label=Profile%20views&color=0e75b6&style=flat" alt="dday-37" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dday_37" target="blank"><img src="https://img.shields.io/twitter/follow/dday_37?logo=twitter&style=for-the-badge" alt="dday_37" /></a> </p>
+<p align="left"> <a href="https://twitter.com/code_with_dDay" target="blank"><img src="https://img.shields.io/twitter/follow/code_with_dDay?logo=twitter&style=for-the-badge" alt="code_with_dDay7" /></a> </p>
 
 - 📫 How to reach me **udayparihar37@gmail.com**
 
