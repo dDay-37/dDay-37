@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Uday Parihar</h1>
-<h3 align="center">Prefinal year CSE Undergrad student exploring DSA, CP, Full Stack.</h3>
+<h3 align="center">Final year CSE Undergrad student exploring DSA, CP, Image Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dday-37&label=Profile%20views&color=0e75b6&style=plastic" alt="dday-37" /> </p>
 
@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [#100DaysofCode](https://twitter.com/code_with_dDay)
 
-- 🌱 I’m currently learning **Web Dev, Blockchain Technologies, Cryptography**
+- 🌱 I’m currently learning **DSA, Computer Vision, Data Analytics**
 
-- 🤝 I’m looking for help with **internship in backend development.**
+- 🤝 I’m looking for help with **job opportunities in Analytics and Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dDay-37](https://github.com/dDay-37)
 
